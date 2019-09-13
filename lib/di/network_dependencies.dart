@@ -7,6 +7,9 @@ import 'package:bookkeeper/data/remote/interceptors/logging_interceptor.dart';
 import 'package:bookkeeper/data/remote/interceptors/request_interceptor.dart';
 import 'package:bookkeeper/data/remote/interceptors/response_interceptor.dart';
 
+
+/// Credits to Flutter Portugal team
+///
 //region API
 
 /// Creates instance of [Dio] to be used in the [remote] layer of the app, fetch

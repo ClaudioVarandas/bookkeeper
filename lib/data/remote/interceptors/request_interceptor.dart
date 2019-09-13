@@ -5,7 +5,6 @@ import 'package:bookkeeper/data/remote/interceptors/logging_interceptor.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// Credits to Flutter Portugal team
-/// see https://github.com/vostpt/mobile-app/blob/develop/lib/di/dependency_provider.dart
 ///
 class RequestInterceptor {
 

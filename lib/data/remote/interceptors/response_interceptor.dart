@@ -2,7 +2,6 @@ import 'package:dio/dio.dart';
 import 'package:bookkeeper/data/remote/interceptors/logging_interceptor.dart';
 
 /// Credits to Flutter Portugal team
-/// see https://github.com/vostpt/mobile-app/blob/develop/lib/di/dependency_provider.dart
 ///
 class ResponseInterceptor {
   LoggingInterceptor _loggingInterceptor;

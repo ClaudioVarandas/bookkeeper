@@ -2,7 +2,6 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 
 /// Credits to Flutter Portugal team
-/// see https://github.com/vostpt/mobile-app/blob/develop/lib/di/dependency_provider.dart
 ///
 /// This file holds the functions to be used in interceptors to include logging
 class LoggingInterceptor {

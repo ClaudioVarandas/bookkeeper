@@ -6,7 +6,6 @@ import 'package:bookkeeper/data/remote/endpoints/auth_endpoints.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// Credits to Flutter Portugal team
-/// see https://github.com/vostpt/mobile-app/blob/develop/lib/di/dependency_provider.dart
 ///
 /// As an [InheritedWidget] this class will provide its childs the objects it hold
 ///
