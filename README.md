@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="/art/logo.png" width="400" height="140" alt="BOOKkeeper logo">
+</p>
+
 # bookkeeper
 
 App to track expenses
@@ -14,3 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Credits
+- Created by [Cláudio Varandas](https://twitter.com/kadinhoCV)
+- Logo by [Caneco](https://twitter.com/caneco)
